@@ -1,0 +1,11 @@
+name: jee_mock_app
+publish_to: "none"
+version: 2.0.0+1
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+flutter:
+  uses-material-design: true
